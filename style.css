@@ -618,8 +618,8 @@ img {
   background-color: transparent;
   padding: 15px 30px;
 
-  background-color: #232323;
-
+  background-color: #4b3c35;
+/* changed nav color here !! */
 }
 
 /* New Section */
@@ -676,7 +676,8 @@ img {
 }
 
 .header-area.sticky {
-  background-color: #232323;
+  background-color: #4b3c35;
+  /* changed nav color sticky here !! */
 }
 
 @media only screen and (max-width: 767px) {
@@ -1773,7 +1774,7 @@ body,
 
 /* :: Hero Area CSS */
 .hero-area {
-  background-color: #232323;
+  background-color: #3a2e29;
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -3058,7 +3059,8 @@ body,
 /**********************footer part css*******************/
 /* line 2, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_footer.scss */
 .footer_part {
-  background-color: #030305;
+  /* footer color changed from (#030305 - black)!! */
+  background-color: #4b3c35; 
   padding: 130px 0px 25px;
 }
 
@@ -3162,7 +3164,7 @@ body,
 
 /* line 69, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a:hover {
-  color: #ff3334 !important;
+  color: #6d1c1cc7 !important;
 }
 
 /* line 75, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_footer.scss */
